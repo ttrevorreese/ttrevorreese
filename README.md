@@ -8,17 +8,20 @@ Here are some ideas to get you started:
 ## I'm a student at the University of Roehampton in London!
 - 🔭 I’m currently working on a Software Engineering project
 - 🌱 I’m currently learning Python, PUG, Artificial Intelligence, and Data Science
+- 🥅 2022 Goals: Gain experience in the field
+- 📫 How to reach me: On [Instagram] or [Twitter]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a professional photographer 📸
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🥅 2022 Goals: Gain experience in the field
-- 📫 How to reach me: On [Instagram][https://www.instagram.com/ttrevorreese] or [Twitter][https://twitter.com/ttrevorreese]
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a professional photographer 📸
 
-<br />
+<!--
+Profile link definitions
+-->
 
 [Twitter]: https://www.twitter.com/ttrevorreese
 [Instagram]: https://www.instagram.com/ttrevorreese
