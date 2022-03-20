@@ -10,7 +10,7 @@ Intro
 ## I'm a student at the University of Roehampton in London!
 - 🔭 I’m currently working on a Software Engineering project
 - 🌱 I’m currently learning Python, PUG, Artificial Intelligence, and Data Science
-- 🥅 2022 Goals: Gain experience in the field
+- 🥅 2022 Goals: Gain experience in the field and become more experienced with programming
 - 📫 How to reach me: On [Instagram] or [Twitter]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a professional photographer 📸
