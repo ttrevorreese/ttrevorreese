@@ -8,8 +8,8 @@
 Intro
 -->
 ## I'm a student at the University of Roehampton in London!
-- 🔭 I’m currently working on a Software Engineering project
-- 🌱 I’m currently learning Python, PUG, Artificial Intelligence, and Data Science
+- 🔭 I’m currently working on my Final Year project
+- 🌱 I’m currently learning Python, Machine Learning, and Project Management
 - 🥅 2022 Goals: Gain experience in the field and become more experienced with programming
 - 📫 How to reach me: On [Instagram] or [Twitter]
 - 😄 Pronouns: he/him
