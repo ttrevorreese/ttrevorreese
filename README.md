@@ -28,7 +28,7 @@ Connections
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/twitter-light.svg)](https://twitter.com/ttrevorreese#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/twitter-dark.svg)](https://twitter.com/ttrevorreese#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/linkedin-light.svg)](https://linkedin.com/in/ttrevorreese#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/linkedin-dark.svg)](https://linkedin.com/in/ttrevorreese#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/instagram-light.svg)](https://instagram.com/ttrevorreese#gh-light-mode-only)
