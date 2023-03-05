@@ -47,6 +47,7 @@ Languages and Tools
 - Experienced:
 <img align="left" alt="NumPy" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg style="padding-right:10px;"/>
 <img align="left" alt="Pandas" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg style="padding-right:10px;"/>
 
 <br /><br />
 
@@ -55,17 +56,16 @@ Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg style="padding-right:10px;"/>
 
 <br />
 <br />
 
 - Just the surface:
-<img align="left" alt="Git" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg style="padding-right:10px;"/>
 <img align="left" alt="F#" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/fsharp/fsharp-original.svg style="padding-right:10px;"/>
 <img align="left" alt="Ruby" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg style="padding-right:10px;"/>
 <img align="left" alt="C++" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg style="padding-right:10px;"/>
 <img align="left" alt="C" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg style="padding-right:10px;"/>
-<img align="left" alt="Docker" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg style="padding-right:10px;"/>
 
 <br />
 <br />
