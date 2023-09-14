@@ -8,7 +8,7 @@
 Intro
 -->
 ## I'm a student at the University of Roehampton in London!
-- 🔭 I’m currently working on my Final Year project
+- 🔭 I’m currently starting my Masters program in Project Management
 - 🌱 I’m currently learning Python, Machine Learning, and Project Management
 - 🥅 2023 Goals: Create an inspiring Final Year Project, graduate with honors, and begin life as an MSc student
 - 📫 How to reach me: On [Instagram] or [Twitter]
