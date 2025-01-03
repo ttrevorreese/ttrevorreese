@@ -1,17 +1,15 @@
 # Hi there, I'm Trevor! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ttrevorreese?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fttrevorreese&screen_name=ttrevorreese)
-![Discord Server](https://img.shields.io/discord/812406061842825287?label=Join%20My%20Discord%20Server&style=for-the-badge)
 ![GitHub Follow](https://img.shields.io/github/followers/ttrevorreese?label=Follow%20my%20GitHub&style=for-the-badge)
 
 <!--
 Intro
 -->
-## I'm a student at the University of Roehampton in London!
-- 🔭 I’m currently starting my Masters program in Project Management
-- 🌱 I’m currently learning Python, Machine Learning, and Project Management
-- 🥅 2023 Goals: Create an inspiring Final Year Project, graduate with honors, and begin life as an MSc student
-- 📫 How to reach me: On [Instagram] or [Twitter]
+## I'm a graduate from the University of Roehampton in London!
+- 🔭 I’m currently a Systems Engineer with Cherished Memories Photography
+- 🌱 I’m currently learning about the industry, professional practices, and undertaking personal projects
+- 🥅 2025 Goals: Apply my learnings from my Bachelor's and Master's into the start of my career
+- 📫 How to reach me: via email or GitHub
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a professional photographer 📸
 <!--
@@ -25,14 +23,9 @@ Connections
 -->
 ### Connect with me:
 
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/twitter-light.svg)](https://twitter.com/ttrevorreese#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/twitter-dark.svg)](https://twitter.com/ttrevorreese#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/linkedin-light.svg)](https://linkedin.com/in/ttrevorreese#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/linkedin-dark.svg)](https://linkedin.com/in/ttrevorreese#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/instagram-light.svg)](https://instagram.com/ttrevorreese#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/instagram-dark.svg)](https://instagram.com/ttrevorreese#gh-dark-mode-only)
 
 <!--
 Languages and Tools
